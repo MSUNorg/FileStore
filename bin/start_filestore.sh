@@ -53,4 +53,4 @@ echo "JAVA_HOME  :$JAVA_HOME"
 echo "SERVER_HOME:$SERVER_HOME"
 echo "CLASSPATH  :$CLASSPATH"
 
-exec $java $JAVA_OPTS com.mob.spstore.SPSBootstrap $* &
+exec $java $JAVA_OPTS com.musn.spstore.SPSBootstrap $* &

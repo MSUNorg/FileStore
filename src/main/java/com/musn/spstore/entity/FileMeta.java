@@ -1,7 +1,7 @@
 /*
  * Copyright 2015-2020 msun.com All right reserved.
  */
-package com.mob.spstore.entity;
+package com.musn.spstore.entity;
 
 import com.lamfire.jmongo.annotations.Entity;
 import com.lamfire.jmongo.annotations.Id;

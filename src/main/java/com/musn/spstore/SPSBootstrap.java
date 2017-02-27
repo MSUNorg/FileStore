@@ -1,7 +1,7 @@
 /*
  * Copyright 2015-2020 msun.com All right reserved.
  */
-package com.mob.spstore;
+package com.musn.spstore;
 
 import java.util.Properties;
 
