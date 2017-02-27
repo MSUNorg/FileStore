@@ -44,7 +44,7 @@ JAVA_OPTS="-server -Xms2048m -Xmx2048m \
 -XX:+UseParNewGC \
 -XX:ParallelGCThreads=4 \
 -XX:+PrintGCDetails \
--Xloggc:/data/logs/finance/sp/finance_jvm_gc.log"
+-Xloggc:/data/logs/fileStore/jvm_gc.log"
 
 
 export JAVA_OPTS
